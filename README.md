@@ -1,5 +1,4 @@
 # Smart-Waste-Management-system-project
-# Smart Waste Management System
 
 This project aims to develop a Smart Waste Management System that utilizes Arduino coding and a user-friendly software application. The system integrates both hardware and software components to monitor and optimize the waste collection process.
 
